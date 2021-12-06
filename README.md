@@ -1,1 +1,1 @@
-# CamCapt Hola, en aquests repositoris es trobarà tots els fitxers utilitzats.
+Hola, en aquests repositoris es trobarà tots els fitxers utilitzats.
